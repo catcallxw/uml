@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T06:31:06.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="I2ztVcE5dLOCXjYX3DlG" version="16.6.1" type="github"><diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">5ZbBbqMwEIafxsdK2CaJOYaEpitlVSmp1LODHbDWYNZxCtmnXzuYEEQqtYdUlXpBM994PPb8gwDgRdGsNK3y34pxCVDAGoCXAKFJSOzTgVMLMEEtyLRgLYI92Ip/3MPA06Ng/DBYaJSSRlRDmKqy5KkZMKq1qofL9koOq1Y04yOwTakc01fBTN5SgmY9f+Iiy7vKcBq1kR1N/2RaHUtfr1QlbyMF7bbxdzzklKn6CuEE4IVWyrRW0Sy4dF3tOtbmPb4TvRxZ89J8JCFapy/B02q12ehmX72yv5tq9eAv+Ebl0bfi1/OLP685de2xR6+ceSzko6aFNeM6F4ZvK5o6XtuhsCw3hbQedGHfxTBwvGsdct7OdYuz9a5b+8a1EVaLuRRZaVkhGHOVY+qB5HubHR9sNVFm67O3nFjiD2/zefNuV+Cl13Z6uSq40Se7pEsIvDx+cqferfsxCCee5VcjgIiH1I9edtm618AaXoZPSEJGkoCEgHkC4gQkEzAPAZn9KIXQUKForBBGNxSC0b0UguiGRDNAIjCPnGELk+ldRZt9e9HCoWgQj1WDt1S722sF8UfeK2vESxDDM1mCboR+hmg4+DrRrNt/+s6xqz8LnPwH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-28T06:31:17.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="LqroBhvUWrXe0F5qcQiO" version="16.6.1" type="github">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel dx="740" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9LcT0HGGRRrxfpWdqRpG-7" value="IOT" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=20;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="100" y="60" width="720" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="9LcT0HGGRRrxfpWdqRpG-8" value="设备" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=20;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9LcT0HGGRRrxfpWdqRpG-12" value="物理设备" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=20;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="140" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9LcT0HGGRRrxfpWdqRpG-13" value="设备影子" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=20;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="300" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
